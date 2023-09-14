@@ -3,7 +3,7 @@
 # Define the desktop directory
 DESKTOP_DIR="$HOME/Desktop"
 
-# Create directories for file types (you can customize this list)
+# Create directories for file types
 IMAGE_DIR="$DESKTOP_DIR/Images"
 DOCUMENT_DIR="$DESKTOP_DIR/Documents"
 VIDEO_DIR="$DESKTOP_DIR/Videos"
