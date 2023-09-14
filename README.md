@@ -71,4 +71,4 @@ Use this script at your own risk. Always make sure to back up your important fil
 ## 🙏 Acknowledgments
 
 Special thanks to the open-source community for inspiration and guidance.
-
+This README was written by a 🤖, because i couldn't be bothered to do it myself.
