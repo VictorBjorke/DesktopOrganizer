@@ -35,5 +35,5 @@ for FILE in "$DESKTOP_DIR"/*; do
         esac
     fi
 done
-
+# Lets the user know that its done.
 echo "Desktop organization complete."
