@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Desktop Organizer Scripts** are powerful yet user-friendly automation scripts designed to help you declutter your desktop by automatically organizing files into categorized folders based on their file types. Whether you're on macOS, Windows 11, or Linux, these scripts provide a convenient way to maintain a clean and organized desktop environment without the hassle.
+The **Desktop Organizer Scripts** are powerful yet user-friendly automation scripts designed to help you declutter your desktop by automatically organizing files into categorized folders based on their file types. Whether you're on macOS, Windows 11, or Linux, these scripts provide a convenient way to maintain a clean and organized desktop environment without the hassle. This project is considered done, I might add features in the past if you ask for it, but other than that, it does what it needs to do.
 
 ## 🌟 Features
 
