@@ -1,11 +1,10 @@
-# 🚀 Desktop Organizer Scripts for macOS and Windows
+# 🚀 Desktop Organizer Scripts for macOS, Windows, and Linux
+
+**Disclaimer:** Use these scripts at your own risk. Always make sure to back up your important files before running any automation scripts.
 
 ## Overview
 
-The **Desktop Organizer Scripts** are powerful yet user-friendly automation scripts designed to help you declutter your desktop by automatically organizing files into categorized folders based on their file types. Whether you're on macOS or Windows 11, these scripts provide a convenient way to maintain a clean and organized desktop environment without the hassle.
-## ⚠️ Disclaimer
-
-Use these scripts at your own risk. Always make sure to back up your important files before running any automation scripts.
+The **Desktop Organizer Scripts** are powerful yet user-friendly automation scripts designed to help you declutter your desktop by automatically organizing files into categorized folders based on their file types. Whether you're on macOS, Windows 11, or Linux, these scripts provide a convenient way to maintain a clean and organized desktop environment without the hassle.
 
 ## 🌟 Features
 
@@ -28,6 +27,11 @@ Use these scripts at your own risk. Always make sure to back up your important f
 
 - Windows 11 (tested on Windows 11)
 - PowerShell
+
+**Linux Script (Bash):**
+
+- Linux distribution (tested on Debian 11)
+- Bash shell
 
 ## 📦 Installation
 
@@ -57,6 +61,19 @@ Use these scripts at your own risk. Always make sure to back up your important f
      .\desktoporganizer.ps1
      ```
 
+**Linux Script (Bash):**
+
+1. **Download the Script:**
+   - Download the `desktoporganizer_linux.sh` script from the repository.
+
+2. **Make the Script Executable:**
+   - Open a terminal.
+   - Navigate to the directory containing the script.
+   - Run the following command to make the script executable:
+     ```
+     chmod +x desktoporganizer_linux.sh
+     ```
+
 ## 💡 Usage
 
 **macOS Script (Bash):**
@@ -79,13 +96,23 @@ Use these scripts at your own risk. Always make sure to back up your important f
      .\desktoporganizer.ps1
      ```
 
+**Linux Script (Bash):**
+
+1. **Run the Script:**
+   - Open a terminal.
+   - Navigate to the directory where the `desktoporganizer_linux.sh` script is located.
+   - Run the script by entering:
+
+    ```bash
+    ./desktoporganizer_linux.sh
+    ```
+
 2. **View the Results:**
-   - The script will organize the files on your desktop into categorized folders based on their file types.
-   - Existing folders and files will not be affected; only new files will be organized.
+   - The script will organize the files on your desktop into the specified folders based on their file extensions. Existing folders and files will not be affected; only new files will be organized.
 
 ## 🎨 Customization
 
-You can customize both scripts by modifying the list of file types and corresponding folders in the scripts. Edit the script's `IMAGE_DIR`, `DOCUMENT_DIR`, `VIDEO_DIR`, and `OTHER_DIR` variables to match your preferred folder structure.
+You can customize all three scripts by modifying the list of file types and corresponding folders in the scripts. Edit the script's `IMAGE_DIR`, `DOCUMENT_DIR`, `VIDEO_DIR`, and `OTHER_DIR` variables to match your preferred folder structure.
 
 ## 📜 License
 
@@ -95,7 +122,6 @@ These scripts are open-source and licensed under the [GNU General Public License
 
 Contributions are highly encouraged! If you'd like to enhance these scripts or add new features, please open an issue or submit a pull request.
 
-
 ## 📝 Author
 
 - [Victor Björke](https://github.com/VictorBjorke)
@@ -103,4 +129,3 @@ Contributions are highly encouraged! If you'd like to enhance these scripts or a
 ## 🙏 Acknowledgments
 
 Special thanks to the open-source community for inspiration and guidance.
-
