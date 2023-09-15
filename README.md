@@ -1,6 +1,6 @@
 # 🚀 Desktop Organizer Scripts for macOS, Windows, and Linux
 
-**Disclaimer:** Use these scripts at your own risk. Always make sure to back up your important files before running any automation scripts.
+**Disclaimer:** Use these scripts at your own risk. Always make sure to back up your important files before running any automation scripts. Also, this README was written by chatGPT, because I couldn't be bothered to do it myself.
 
 ## Overview
 
